@@ -1,6 +1,6 @@
 // Initialize Firebase
 var config = {
-    apiKey: "AIzaSyCgwvJJ8DImkidtJqH17MuuHJz7BnpZwo0",
+    apiKey: "REMOVED",
     authDomain: "tourist-spot-finder-4249d.firebaseapp.com",
     databaseURL: "https://tourist-spot-finder-4249d.firebaseio.com",
     projectId: "tourist-spot-finder-4249d",
