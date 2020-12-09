@@ -1,5 +1,5 @@
 # TouristSpotFinder
-An Android app for finding tourist spots
+An Android app for finding and adding tourist spots
 
 This is an assignment for Advanced Mobile Computing with Android module as a part of my course BSc in Information Technology with specialism in Mobile Technology in Asia Pacific University.
 
