@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "770924790408",
+    "firebase_url": "https://tourist-spot-finder-4249d.firebaseio.com",
+    "project_id": "tourist-spot-finder-4249d",
+    "storage_bucket": "tourist-spot-finder-4249d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770924790408:android:393cfde1a4f52dfc",
+        "android_client_info": {
+          "package_name": "com.alexlim.touristspotfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770924790408-sb858e4uf4dpu4l1rgser8vbv0d2gg6o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alexlim.touristspotfinder",
+            "certificate_hash": "9b3de45f02da63b9788232519aa846ec49ecf635"
+          }
+        },
+        {
+          "client_id": "770924790408-78cppecjado0biiu5j3m530npug8ivg9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoXzl8aW1dLTlACzNyEBokDlxft3tOJrA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770924790408-78cppecjado0biiu5j3m530npug8ivg9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

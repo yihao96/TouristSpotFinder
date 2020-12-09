@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="category_array">
+        <item>Uncategorized</item>
+        <item>Restaurant</item>
+        <item>Food</item>
+        <item>Drinks</item>
+        <item>Coffeehouse</item>
+        <item>Burger/Sandwich</item>
+        <item>Pizza Place</item>
+        <item>Ice Cream</item>
+        <item>Local Market</item>
+        <item>Night Club</item>
+        <item>Shopping Mall</item>
+        <item>Street Art</item>
+        <item>Wall Art</item>
+        <item>Art Gallery</item>
+        <item>Statue</item>
+        <item>Museum</item>
+        <item>Historical Place</item>
+        <item>Beach</item>
+        <item>Lake</item>
+        <item>Park</item>
+        <item>Scenery</item>
+        <item>Hike</item>
+        <item>Theme Park</item>
+        <item>Transportation</item>
+    </string-array>
+</resources>
